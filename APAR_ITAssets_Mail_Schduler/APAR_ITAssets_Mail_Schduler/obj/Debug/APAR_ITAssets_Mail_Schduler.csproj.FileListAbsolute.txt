@@ -1,0 +1,19 @@
+C:\Users\011230\Desktop\development\APAR Schedular\APAR_ITAssets_Mail_Schduler\APAR_ITAssets_Mail_Schduler\bin\Debug\APAR_ITAssets_Mail_Schduler.exe.config
+C:\Users\011230\Desktop\development\APAR Schedular\APAR_ITAssets_Mail_Schduler\APAR_ITAssets_Mail_Schduler\obj\Debug\APAR_ITAssets_Mail_Schduler.csprojResolveAssemblyReference.cache
+C:\Users\011230\Desktop\development\APAR Schedular\APAR_ITAssets_Mail_Schduler\APAR_ITAssets_Mail_Schduler\bin\Debug\APAR_ITAssets_Mail_Schduler.exe
+C:\Users\011230\Desktop\development\APAR Schedular\APAR_ITAssets_Mail_Schduler\APAR_ITAssets_Mail_Schduler\bin\Debug\APAR_ITAssets_Mail_Schduler.pdb
+C:\Users\011230\Desktop\development\APAR Schedular\APAR_ITAssets_Mail_Schduler\APAR_ITAssets_Mail_Schduler\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\011230\Desktop\development\APAR Schedular\APAR_ITAssets_Mail_Schduler\APAR_ITAssets_Mail_Schduler\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\Users\011230\Desktop\development\APAR Schedular\APAR_ITAssets_Mail_Schduler\APAR_ITAssets_Mail_Schduler\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\011230\Desktop\development\APAR Schedular\APAR_ITAssets_Mail_Schduler\APAR_ITAssets_Mail_Schduler\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\011230\Desktop\development\APAR Schedular\APAR_ITAssets_Mail_Schduler\APAR_ITAssets_Mail_Schduler\obj\Debug\APAR_ITAssets_Mail_Schduler.exe
+C:\Users\011230\Desktop\development\APAR Schedular\APAR_ITAssets_Mail_Schduler\APAR_ITAssets_Mail_Schduler\obj\Debug\APAR_ITAssets_Mail_Schduler.pdb
+E:\AW Project\Project\Apar\APAR Schedular Source Code\APAR_ITAssets_Mail_Schduler\APAR_ITAssets_Mail_Schduler\bin\Debug\APAR_ITAssets_Mail_Schduler.exe.config
+E:\AW Project\Project\Apar\APAR Schedular Source Code\APAR_ITAssets_Mail_Schduler\APAR_ITAssets_Mail_Schduler\bin\Debug\APAR_ITAssets_Mail_Schduler.exe
+E:\AW Project\Project\Apar\APAR Schedular Source Code\APAR_ITAssets_Mail_Schduler\APAR_ITAssets_Mail_Schduler\bin\Debug\APAR_ITAssets_Mail_Schduler.pdb
+E:\AW Project\Project\Apar\APAR Schedular Source Code\APAR_ITAssets_Mail_Schduler\APAR_ITAssets_Mail_Schduler\bin\Debug\Microsoft.Expression.Drawing.xml
+E:\AW Project\Project\Apar\APAR Schedular Source Code\APAR_ITAssets_Mail_Schduler\APAR_ITAssets_Mail_Schduler\obj\Debug\APAR_ITAssets_Mail_Schduler.csprojAssemblyReference.cache
+E:\AW Project\Project\Apar\APAR Schedular Source Code\APAR_ITAssets_Mail_Schduler\APAR_ITAssets_Mail_Schduler\obj\Debug\APAR_ITAssets_Mail_Schduler.csproj.CoreCompileInputs.cache
+E:\AW Project\Project\Apar\APAR Schedular Source Code\APAR_ITAssets_Mail_Schduler\APAR_ITAssets_Mail_Schduler\obj\Debug\APAR_ITAssets_Mail_Schduler.csproj.CopyComplete
+E:\AW Project\Project\Apar\APAR Schedular Source Code\APAR_ITAssets_Mail_Schduler\APAR_ITAssets_Mail_Schduler\obj\Debug\APAR_ITAssets_Mail_Schduler.exe
+E:\AW Project\Project\Apar\APAR Schedular Source Code\APAR_ITAssets_Mail_Schduler\APAR_ITAssets_Mail_Schduler\obj\Debug\APAR_ITAssets_Mail_Schduler.pdb
