@@ -264,7 +264,14 @@ namespace APAR_ITAssets_Mail_Scheduler.Models
                                 _Body += "<br><b>Designation :</b> " + updateItem.Designation;
                                 _Body += "<br><b>Buisness :</b> " + updateItem.Business;
                                 _Body += "<br><b>Reporting to  :</b> " + updateItem.ReportingTo;
-                                _Body += "<br><b>Based on Work Level  :</b> " + updateItem.Asset;
+                                if(updateItem.Asset == "Desktop") {
+                                    _Body += "<br><b>IT Asset Request for  :</b> " + updateItem.Asset;
+                                }
+                                else
+                                {
+                                    _Body += "<br><b>Based on Work Level  :</b> " + updateItem.Asset;
+                                }
+                               
                                 _Body += "<br><b>New Joinee Employee :</b> " + updateItem.NewJoineeEmpName;
                                 _Body += "<br><b>New Employee designation :</b> " + updateItem.NewEmployeeDesignation;
                                 _Body += "<br><b>Replacement Of :</b> " + updateItem.ReplacementEmployeeName;
