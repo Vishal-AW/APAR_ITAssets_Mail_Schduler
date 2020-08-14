@@ -332,7 +332,7 @@ namespace APAR_ITAssets_Mail_Scheduler.Models
                                 listItem["ToUser"] = _To;
                                 listItem["MailSubject"] = _Subject;
                                 listItem["MailBody"] = _Body;
-                                //listItem.Update();
+                                listItem.Update();
                             }
                             try
                             {
